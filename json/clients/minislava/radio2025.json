@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "category_name": "Music",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/wordpress-radio-app/main/category/Music.jpg"
+    },
+    {
+      "category_name": "World",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/wordpress-radio-app/main/category/World.jpg"
+    },
+    {
+      "category_name": "Newscast",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/wordpress-radio-app/main/category/National.jpg"
+    },
+    {
+      "category_name": "Education",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/wordpress-radio-app/main/category/Education.jpg"
+    },
+    {
+      "category_name": "Classic",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/wordpress-radio-app/main/category/Culture.jpg"
+    },
+    {
+      "category_name": "Misc",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/wordpress-radio-app/main/category/Misc.jpg"
+    }
+  ],
+  "radios": [
+    {
+      "radio_name": "SmartFM Indonesia",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2024/10/smart-fm-1.jpg",
+      "radio_url": "http://144.217.83.175:8000",
+      "category_name": "Education"
+    },
+    {
+      "radio_name": "Radio Romania",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/1682960503_radio_romania.jpg",
+      "radio_url": "http://mscp1.gazduireradio.ro:1130/stream",
+      "category_name": "Classic"
+    },
+    {
+      "radio_name": "Cool Fahrenheit",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/4289-2021-06-19.jpg",
+      "radio_url": "http://103.253.135.44:5004",
+      "category_name": "Misc"
+    },
+    {
+      "radio_name": "Dance Wave Retro",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/6417-2021-05-18.jpg",
+      "radio_url": "http://stream.dancewave.online:8080/dance.mp3",
+      "category_name": "Music"
+    },
+    {
+      "radio_name": "NG Radio Indonesia",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/8442-2020-07-07.jpg",
+      "radio_url": "http://live.serverstreaming.net:8000/max-radio",
+      "category_name": "Music"
+    },
+    {
+      "radio_name": "Radio 2.0 - Valli di Bergamo",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/0894-2019-05-03.jpg",
+      "radio_url": "http://46.252.154.133:8080",
+      "category_name": "World"
+    },
+    {
+      "radio_name": "V Radio FM Jakarta",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/7913-2017-11-07.jpg",
+      "radio_url": "http://202.147.199.100:8000/",
+      "category_name": "Classic"
+    },
+    {
+      "radio_name": "Suara Madu FM",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/0253-2015-11-15.jpg",
+      "radio_url": "http://topradio.uno:8003/live",
+      "category_name": "Misc"
+    },
+    {
+      "radio_name": "Radio Zelengrad",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/8896-2015-11-15.jpg",
+      "radio_url": "http://stream.antenne.de:80/antenne",
+      "category_name": "Newscast"
+    },
+    {
+      "radio_name": "Radio Rodja",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/1593-2015-11-15.jpg",
+      "radio_url": "http://radioislamindonesia.com/rodja-bandung.mp3",
+      "category_name": "Education"
+    },
+    {
+      "radio_name": "Radio Niagara",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/5962-2015-11-15.jpg",
+      "radio_url": "http://ecast.myautodj.com:1240/stream",
+      "category_name": "Misc"
+    },
+    {
+      "radio_name": "Radio Rama",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/3757-2015-11-15.jpg",
+      "radio_url": "http://5.135.154.72:13548",
+      "category_name": "Misc"
+    },
+    {
+      "radio_name": "Radio Jaca",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/4548-2015-11-15.jpg",
+      "radio_url": "http://ais-edge23-dal02.cdnstream.com/1985_128.mp3",
+      "category_name": "Misc"
+    },
+    {
+      "radio_name": "Maestro Bandung FM",
+      "radio_image": "https://solodroidradio.wordpress.com/wp-content/uploads/2022/08/8841-2015-11-15.jpg",
+      "radio_url": "http://192.99.170.8:5756",
+      "category_name": "Music"
+    }
+  ]
+}
