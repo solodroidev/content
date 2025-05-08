@@ -6,6 +6,12 @@
     "url": "https://solodroid.co.id"
   },
   {
+    "enable": false,
+    "name": "YouTube",
+    "icon": "https://cdn-icons-png.flaticon.com/512/270/270834.png",
+    "url": "https://www.youtube.com/@SolodroidDeveloper"
+  },
+  {
     "enable": true,
     "name": "Instagram",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png",
