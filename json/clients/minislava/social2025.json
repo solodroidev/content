@@ -1,14 +1,14 @@
 [
   {
     "enable": true,
-    "name": "Facebook",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png",
-    "url": "https://www.facebook.com/solodroid.net"
+    "name": "Website",
+    "icon": "https://png.pngtree.com/png-vector/20220520/ourmid/pngtree-blue-browser-icon-internet-and-network-vectors-sign-buttons-hand-vector-png-image_46366036.jpg",
+    "url": "https://solodroid.co.id"
   },
   {
     "enable": true,
     "name": "Instagram",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png",
-    "url": "https://www.instagram.com/cristiano/"
+    "url": "https://www.instagram.com/solodroid.dev/"
   }
 ]
