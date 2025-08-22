@@ -50,7 +50,9 @@
       "interstitial_ad_interval": 3,
       "native_ad_index": 1,
       "native_ad_interval": 8,
-      "native_ad_style": "medium",
+      "native_ad_style_exit_dialog": "medium",
+      "native_ad_style_post_list": "medium",
+      "native_ad_style_post_details": "large",
       "native_ad_post_details_position": "top",
       "show_banner_ad_home": true,
       "show_banner_ad_post_details": true,
@@ -229,3 +231,4 @@
     }
   ]
 }
+
