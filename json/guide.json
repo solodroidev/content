@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "status": 1,
+      "status": true,
       "redirect_url": "",
-      "privacy_policy_url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
-      "email_feedback_and_report": "report.solodroid@gmail.com",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
+      "email_feedback_and_report": "youremail@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -14,18 +14,15 @@
       "show_related_posts": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
-      "enable_app_protection": false,
-      "enable_dark_mode_as_default_theme": false,
-      "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
-      "base64_license_key": ""
+      "enable_dark_mode_as_default_theme": false
     }
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
@@ -33,9 +30,9 @@
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
@@ -45,6 +42,7 @@
       "applovin_native_manual_unit_id": "0",
       "applovin_open_ad_unit_id": "0",
       "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
@@ -62,7 +60,9 @@
       "show_interstitial_ad_post_details": true,
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
-      "show_app_open_ad": true
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
     }
   ],
   "categories": [
@@ -106,7 +106,7 @@
       "name": "Lifestyle",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
     },
-	{
+    {
       "id": 9,
       "name": "Android",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
@@ -118,10 +118,10 @@
       "category": "Game, Tips & Trick",
       "title": "Free Fire: Top 10 best M1014 gun skins in the game",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
       "video": ""
     },
-	{
+    {
       "id": 2,
       "category": "How To, Lifestyle",
       "title": "IKEA Malm Bed Building Tips - How to Build IKEA Furniture",
@@ -134,7 +134,7 @@
       "category": "Coding, Apps",
       "title": "Object Oriented Programming Breakdown for Beginners",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/programming.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/programming.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/programming.html",
       "video": ""
     },
     {
@@ -142,7 +142,7 @@
       "category": "Game",
       "title": "Mobile Legends on PC Bruno Guide: Best Build, Emblem and Gameplay Tips",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/mobile-legends.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/mobile-legends.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/mobile-legends.html",
       "video": ""
     },
     {
@@ -150,7 +150,7 @@
       "category": "Game",
       "title": "PUBG New State on PC: Global launch time based on your country",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
       "video": ""
     },
     {
@@ -158,10 +158,10 @@
       "category": "Tips & Trick",
       "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
       "video": ""
     },
-	{
+    {
       "id": 7,
       "category": "OS, Apps",
       "title": "How to build your own custom Android ROM",
@@ -174,7 +174,7 @@
       "category": "Apps",
       "title": "How to hide your iPhone photos in iOS 16",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/ios.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/ios.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/ios.html",
       "video": ""
     },
     {
@@ -182,7 +182,7 @@
       "category": "Mods",
       "title": "The Witcher 3 Complete Edition Mods List",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/the-witcher.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/the-witcher.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/the-witcher.html",
       "video": ""
     },
     {
@@ -193,12 +193,12 @@
       "content": "<p>If you&rsquo;re dreading decking the halls with your relatives this year, there are seasonal survival tips that may help you get through the holidays.</p><p>If you feel holidays are more of a hassle than a hallmark movie, you&rsquo;re not alone. According to a recent poll, at least 75 percent of Americans admit they need to escape family this time of year. But there are ways to make the most of the season.</p><p>On average, Americans will stay with family for three and a half days and nearly 40 percent say finding sleeping arrangements is one of the most stressful parts of preparing for out-of-town family.</p><p>Other top concerns are lack of privacy, family getting on your nerves, and drama between family members.</p><p>&ldquo;Most of us want harmony in our families,&rdquo; says Family &amp; Marriage Therapist, Cherlette McCullough.</p><p>One of the most important sanity savers is to plan early, know who&rsquo;s traveling, and what the sleeping arrangements are.</p><p>Set realistic expectations for yourself. When you adjust your mindset to something that&rsquo;s realistic, you&rsquo;re already ahead of the game. It&rsquo;s important to find a balance between being generous and hospitable. Most importantly, keep the lines of communication open with your significant other about how you are feeling.</p><p>&ldquo;If you&rsquo;re feeling that you&rsquo;re not accepted, I would say the first thing too, talk to your mate about that,&rdquo; said McCullough.</p><p>One last tip, try outsourcing some of your big holiday meals. Experts say order in all of the holiday sides and trimmings and just focus on the turkey or ham. That way you spend less time in the kitchen and more time enjoying the season.</p>",
       "video": "https://www.youtube.com/watch?v=c-Rq61sXpV0"
     },
-	{
+    {
       "id": 11,
       "category": "Lifestyle",
       "title": "Your Step-by-Step Guide to Filling Out a Money Order",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/money-order.jpg",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/money-order.html",
+      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/money-order.html",
       "video": ""
     }
   ],
@@ -220,6 +220,12 @@
       "title": "WebView Json",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
       "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+    },
+    {
+      "id": 4,
+      "title": "Wallpaper Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
 }
