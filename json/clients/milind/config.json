@@ -1,0 +1,25 @@
+{
+  "app": {
+    "status": true,
+    "toolbar": true,
+    "navigation_drawer": true,
+    "cache": true,
+    "redirect_url": ""
+  },
+  "menus": [
+    {
+      "name": "My Phone Update",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
+      "url": "https://myphoneupdate.com/",
+      "url_dark": ""
+    },
+    {
+      "name": "Fastdl",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://fastdl.app/en",
+      "url_dark": ""
+    }
+  ]
+}
