@@ -1,13 +1,14 @@
 {
   "webview": {
     "url": "https://myphoneupdate.com",
-    "url_dark": ""
+    "url_dark": "https://fastdl.app/en"
   },
   "settings": {
     "toolbar": true,
     "cache": true,
     "share_message": "I want to share MyPhoneUpdate app, you can download it from the link below:",
-    "share_url": "https://myphoneupdate.com"
+    "share_url": "https://myphoneupdate.com",
+    "more_apps_url": "https://myphoneupdate.com/tag/android-apk/"
   },
   "app_update": {
     "version_code": 1,
