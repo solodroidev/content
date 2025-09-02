@@ -1,25 +1,18 @@
 {
-  "app": {
-    "status": true,
-    "toolbar": true,
-    "navigation_drawer": true,
-    "cache": true,
-    "redirect_url": ""
+  "webview": {
+    "url": "https://myphoneupdate.com",
+    "url_dark": ""
   },
-  "menus": [
-    {
-      "name": "My Phone Update",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://myphoneupdate.com/",
-      "url_dark": ""
-    },
-    {
-      "name": "Fastdl",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://fastdl.app/en",
-      "url_dark": ""
-    }
-  ]
+  "settings": {
+    "toolbar": true,
+    "cache": true,
+    "share_message": "I want to share MyPhoneUpdate app, you can download it from the link below:",
+    "share_url": "https://myphoneupdate.com"
+  },
+  "app_update": {
+    "version_code": 1,
+    "update_url": "https://myphoneupdate.com/",
+    "update_title": "New app update",
+    "update_message": "New update version is available now, click the button below to download and install the latest update of this app."
+  }
 }
