@@ -8,10 +8,11 @@
     "cache": true,
     "share_message": "I want to share MyPhoneUpdate app, you can download it from the link below:",
     "share_url": "https://myphoneupdate.com",
-    "more_apps_url": "https://myphoneupdate.com/tag/android-apk/"
+    "more_apps_url": "https://myphoneupdate.com/tag/android-apk/",
+    "privacy_policy_url": "https://myphoneupdate.com/privacy-policy/"
   },
   "app_update": {
-    "version_code": 1,
+    "version_code": 2,
     "update_url": "https://myphoneupdate.com/",
     "update_title": "New app update",
     "update_message": "New update version is available now, click the button below to download and install the latest update of this app."
