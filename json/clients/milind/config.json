@@ -12,7 +12,8 @@
     "privacy_policy_url": "https://myphoneupdate.com/privacy-policy/"
   },
   "app_update": {
-    "version_code": 2,
+    "force_update": false,
+    "version_code": 1,
     "update_url": "https://myphoneupdate.com/",
     "update_title": "New app update",
     "update_message": "New update version is available now, click the button below to download and install the latest update of this app."
