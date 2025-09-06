@@ -10,7 +10,8 @@
     "share_url": "https://myphoneupdate.com",
     "more_apps_url": "https://myphoneupdate.com/tag/android-apk/",
     "privacy_policy_url": "https://myphoneupdate.com/privacy-policy/",
-    "terms_of_service_url": "https://myphoneupdate.com/tos/"
+    "terms_of_service_url": "https://myphoneupdate.com/tos/",
+    "telegram_url": "https://t.me/solodroidx"
   },
   "app_update": {
     "force_update": false,
@@ -20,6 +21,7 @@
     "update_message": "New update version is available now, click the button below to download and install the latest update of this app."
   }
 }
+
 
 
 
