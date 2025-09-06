@@ -13,11 +13,12 @@
     "terms_of_service_url": "https://myphoneupdate.com/tos/"
   },
   "app_update": {
-    "force_update": true,
+    "force_update": false,
     "version_code": 2,
     "update_url": "https://myphoneupdate.com/",
     "update_title": "New app update",
     "update_message": "New update version is available now, click the button below to download and install the latest update of this app."
   }
 }
+
 
