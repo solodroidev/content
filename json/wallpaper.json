@@ -20,7 +20,7 @@
     {
       "ad_status": true,
       "main_ad": "admob",
-      "backup_ad": "alien_ads",
+      "backup_ad": "google_ad_manager",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
@@ -556,4 +556,5 @@
     }
   ]
 }
+
 
